@@ -45,17 +45,19 @@ The above query shows the breakdown of sales by their order dates.
 
 3. Which date has the highest quantity shipped?
 
-![image](https://github.com/Adeola05-pelz/RAYS-SUPERMARKET-ORDERS-ANALYSIS-USING-SQL/assets/111251042/7da2184a-d06c-4d2d-a5ab-8d7cd3a8e0be)
-
-![image](https://github.com/Adeola05-pelz/RAYS-SUPERMARKET-ORDERS-ANALYSIS-USING-SQL/assets/111251042/1d1381bf-c714-406c-9013-9bf174fcc877)
-
-The date with the highest quantity shipped is 16th December 2015.
-
-4. Which customerID has the highest purchase record in the company?
-
 ![image](https://github.com/Adeola05-pelz/RAYS-SUPERMARKET-ORDERS-ANALYSIS-USING-SQL/assets/111251042/8464a476-54bc-4abe-9b8c-52a535e0fb55)
 
 ![image](https://github.com/Adeola05-pelz/RAYS-SUPERMARKET-ORDERS-ANALYSIS-USING-SQL/assets/111251042/561b83da-3200-4069-829c-07b6576554bf)
+
+The date with the highest quantity shipped is 12th December 2017.
+
+
+4. Which customerID has the highest purchase record in the company?
+
+![image](https://github.com/Adeola05-pelz/RAYS-SUPERMARKET-ORDERS-ANALYSIS-USING-SQL/assets/111251042/3ee7d274-b83f-47e1-945e-4b29cee2a67c)
+
+![image](https://github.com/Adeola05-pelz/RAYS-SUPERMARKET-ORDERS-ANALYSIS-USING-SQL/assets/111251042/10471661-3d38-4f19-93f4-fbeee65b9951)
+
 
 The customer with ID SM-20320 has the highest purchase record, having made purchases worth 25.043.05
    
